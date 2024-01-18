@@ -1,13 +1,12 @@
-import React from "react";
+import React from 'react'
 
 const NewComponent = () => {
   return (
     <>
-      <div>Modified some more and some more!</div>
-      <div>Modified some more and some more!</div>
-      <div>Modified some more and some more!</div>
+    <div>Modified some more and some more!</div>
+    <p>hello</p>
     </>
-  );
-};
+  )
+}
 
-export default NewComponent;
+export default NewComponent
