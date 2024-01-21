@@ -35,14 +35,7 @@ const Component = () => {
       <div>Component has been modified by a new branch</div>
       <div>Component has been modified by a new branch</div>
       <div>Component has been modified by a new branch</div>
-      <div>Component has been modified by a new branch</div>
-      <div>Component has been modified by a new branch</div>
-      <div>Component has been modified by a new branch</div>
-      <div>Component has been modified by a new branch</div>
-      <div>Component has been modified by a new branch</div>
-      <div>Component has been modified by a new branch</div>
-      <div>Component has been modified by a new branch</div>
-      <div>Component has been modified by a new branch</div>
+
       <div>Component has been modified by a new branch</div>
       <div>Component has been modified by a new branch</div>
       <div>Component has been modified by a new branch</div>
